@@ -110,3 +110,54 @@ GUI
 ---
 
 This project is only componed of command line tools. If you are looking for a gui, you can take a look at: [VBAN-manager project on GitHub](https://github.com/VBAN-manager/VBAN-manager)
+
+
+
+Com certeza. Ajustei o layout para torná-lo mais profissional e organizado, mantendo todas as imagens e links originais conforme solicitado.
+
+-----
+
+# VBAN Talkie
+
+-----
+
+VBAN-Talkie is a simple Application to receive and transmit VBAN Audio Streams (PC Version is distributed as Donationware).
+
+## 🖥️ Desktop Versions
+
+### **VBAN-Talkie 1.0.0.6 for Windows**
+
+*Standalone Application (XP to WIN11 32/64 bits)*
+
+  * **Package:** `VBANTalkie_v1006.zip` (2.1 MB - OCT 2022)
+  * **Installation:** None — copy it to your hard disk/desktop and run it.
+
+<a href="https://www.google.com/search?q=https://download.vb-audio.com/Download_CABLE/VBANTalkie_v1006.zip"><img src="https://vb-audio.com/images/download.gif" border="0" align="LEFT" width="135" height="40" vspace="10" hspace="0"></a>
+<br clear="all">
+
+-----
+
+### **VBAN-Talkie for Mac**
+
+*macOS 10.11 or later*
+
+<a href="https://itunes.apple.com/us/app/vban-talkie-cherry/id1553486090"><img src="https://github.com/user-attachments/assets/948b74c4-9475-4f1d-9ac8-c70d53dc9ca4" border="0" align="LEFT" width="135" height="40" vspace="10" hspace="0"></a>
+<br clear="all">
+
+-----
+
+## 📱 Mobile Devices
+
+### **VBAN-Talkie for iOS**
+
+*iPhone, iPad or iPod-Touch (iOS 7.0 or later)*
+
+<a href="https://itunes.apple.com/us/app/vban-talkie/id1541587241"><img src="https://github.com/user-attachments/assets/948b74c4-9475-4f1d-9ac8-c70d53dc9ca4" border="0" align="LEFT" width="135" height="40" vspace="10" hspace="0"></a>
+<br clear="all">
+
+### **VBAN-Talkie for Android**
+
+*Phone, tablet (Android 4.2 or later)*
+
+<a href="https://play.google.com/store/apps/details?id=com.vbaudio.vbantalkie"><img src="https://vb-audio.com/images/DownloadOnGooglePlay.jpg" border="0" align="LEFT" width="135" height="40" vspace="10" hspace="0"></a>
+<br clear="all">
